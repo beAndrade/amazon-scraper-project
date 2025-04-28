@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
       rating: 4.6,
       reviews: 8765,
       imageUrl:
-        "https://m.media-amazon.com/images/I/61uByyD3mVL._AC_UL320_.jpg",
+        "https://m.media-amazon.com/images/I/51aXvjzcukL._AC_SL1500_.jpg",
       productUrl: "https://www.amazon.com/dp/B09XS7JWHH",
     },
     {
@@ -34,35 +34,35 @@ document.addEventListener("DOMContentLoaded", () => {
       rating: 4.3,
       reviews: 3421,
       imageUrl:
-        "https://m.media-amazon.com/images/I/51R1ROj0kVL._AC_UL320_.jpg",
-      productUrl: "https://www.amazon.com/dp/B0C8H8X6K1",
+        "https://m.media-amazon.com/images/I/51ZR4lyxBHL._AC_SL1123_.jpg",
+      productUrl: "https://www.amazon.com/dp/B0CCZ1L489",
     },
     {
       title:
-        "Sennheiser MOMENTUM 4 Wireless Headphones, Adaptive Noise Cancellation, 60-Hour Battery Life, Bluetooth 5.2, Built-in Microphone, Black",
+        "Sennheiser MOMENTUM 4 Wireless Headphones, Adaptive Noise Cancellation, 60-Hour Battery Life, Bluetooth 5.2, Built-in Microphone, White",
       rating: 4.4,
       reviews: 5234,
       imageUrl:
-        "https://m.media-amazon.com/images/I/61o6Vty9QIL._AC_UL320_.jpg",
-      productUrl: "https://www.amazon.com/dp/B0B7S8S6PD",
+        "https://m.media-amazon.com/images/I/71zsm84mJsL._AC_SL1500_.jpg",
+      productUrl: "https://www.amazon.com/dp/B0B6G9TPNQ",
     },
     {
       title:
-        "JBL Tune 760NC Wireless Over-Ear Active Noise Cancelling Headphones - Black",
+        "JBL Tune 760NC Wireless Over-Ear Active Noise Cancelling Headphones - Blue",
       rating: 4.2,
       reviews: 7654,
       imageUrl:
-        "https://m.media-amazon.com/images/I/61QRAU+cRVL._AC_UL320_.jpg",
-      productUrl: "https://www.amazon.com/dp/B09VK3Y2H1",
+        "https://m.media-amazon.com/images/I/61turRGN1cL._AC_SL1500_.jpg",
+      productUrl: "https://www.amazon.com/dp/B0CTB1BM3P",
     },
     {
       title:
-        "Beats Studio Pro - Wireless Bluetooth Noise Cancelling Headphones - Personalized Spatial Audio, USB-C Lossless Audio - Black",
+        "Beats Studio Pro - Wireless Bluetooth Noise Cancelling Headphones - Personalized Spatial Audio, USB-C Lossless Audio - Navy",
       rating: 4.1,
       reviews: 4321,
       imageUrl:
-        "https://m.media-amazon.com/images/I/51m0D5+QNVL._AC_UL320_.jpg",
-      productUrl: "https://www.amazon.com/dp/B0CBQ5BZQ9",
+        "https://m.media-amazon.com/images/I/61GiuI-ebWL._AC_SL1500_.jpg",
+      productUrl: "https://www.amazon.com/dp/B0C8PWSW7T",
     },
   ];
 

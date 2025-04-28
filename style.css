@@ -13,4 +13,10 @@
         .star-rating {
             color: #FFD700;
         }
+
+        #keyword:focus {
+            outline: none;
+            border-color: #f59e0b;
+            box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.2);
+          }
     </style>
